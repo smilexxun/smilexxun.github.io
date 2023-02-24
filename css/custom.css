@@ -168,6 +168,10 @@ hr:before {
 ::-webkit-scrollbar-corner {
     background-color: transparent
 }
+
+/* #footer {
+	background: rgba(255,255,255, .0);
+} */
 /*body {
     cursor: url(https://bu.dusays.com/2022/05/17/6283c365d20dd.png), auto;
 }
