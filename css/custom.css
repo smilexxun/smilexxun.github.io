@@ -149,7 +149,7 @@ hr:before {
     overflow: hidden;
 }
 /*滚动条*/
-::-webkit-scrollbar {
+/* ::-webkit-scrollbar {
     width: 8px;
     height: 8px
 }
@@ -167,7 +167,7 @@ hr:before {
 
 ::-webkit-scrollbar-corner {
     background-color: transparent
-}
+} */
 
 /*body {
     cursor: url(https://bu.dusays.com/2022/05/17/6283c365d20dd.png), auto;
