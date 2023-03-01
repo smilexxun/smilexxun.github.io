@@ -148,6 +148,15 @@ hr:before {
 #drone .container {
     overflow: hidden;
 }
+.relatedPosts > .relatedPosts-list > div, #pagination.pagination-post {
+  background: transparent;
+}
+.relatedPosts .fa-thumbs-up {
+  color: red;
+}
+.relatedPosts-list .cover, .pagination-post .cover {
+  background: rgba(0, 0, 0, .8) !important;
+}
 /* #nav a {
   color: #F59E0B;
 }
