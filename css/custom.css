@@ -148,6 +148,22 @@ hr:before {
 #drone .container {
     overflow: hidden;
 }
+/* #nav a {
+  color: #F59E0B;
+}
+#nav a:hover {
+  color: #F59E0B;
+}
+#page-header.nav-fixed #nav a, #page-header.nav-fixed #nav #toggle-menu {
+  color: #F59E0B;
+  text-shadow: none;
+}
+#page-header.nav-fixed #nav #blog-info a {
+  color: var(--light-grey) !important;
+}
+#nav #blog-info a {
+  color: var(--light-grey) !important;
+} */
 /*滚动条*/
 /* ::-webkit-scrollbar {
     width: 8px;
@@ -156,7 +172,6 @@ hr:before {
 
 ::-webkit-scrollbar-track {
     border-radius: 2em;
-    /* background-color: rgba(73, 177, 245, .2); */
 }
 
 ::-webkit-scrollbar-thumb {
